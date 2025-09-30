@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-I'm an experienced IT professional specializing in **full-stack development** with expertise in C#,Java, Angular, .NET, and Entity Framework. Currently working as an IT Trainee at Flex, Chennai, where I develop robust applications and contribute to digital transformation initiatives.
+I'm an experienced IT professional specializing in **full-stack development** with expertise in C#,Java, Angular, .NET, and Entity Framework. Currently working as an Associate software Developer at Flex, where I develop robust applications and contribute to digital transformation initiatives.
 
 🎓 **B.E. Computer Science Engineering** from Anna University College of Engineering, Dindigul (2023)  
 📍 **Location:** Tamil Nadu, India  

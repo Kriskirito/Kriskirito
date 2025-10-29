@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](linkedin.com/in/harikriscse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/harikriscse/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:krisharirgo@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+919080425608)
 
@@ -254,7 +254,7 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 **📧 Email:** krisharirgo@gmail.com  
 **📱 Phone:** +91 9080425608  
-**💼 LinkedIn:** [linkedin.com/in/hari-kris-cse-g/](linkedin.com/in/harikriscse)  
+**💼 LinkedIn:** [linkedin.com/in/hari-kris-cse-g/](https://www.linkedin.com/in/harikriscse/)  
 **🌟 GitHub:** You're already here! Feel free to explore my repositories  
 
 </div>
